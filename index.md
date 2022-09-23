@@ -1,3 +1,1 @@
-# This is the markdown h1 title
-## This is h2 title
-###### This is the h6 title
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
